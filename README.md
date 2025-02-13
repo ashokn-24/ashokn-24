@@ -1,4 +1,4 @@
-### ✨ Ashok Nagaraj | Full-Stack Developer | AI Enthusiast  
+### ✨ Ashok Nagaraj | Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokn24-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokn24)  
 [![GitHub](https://img.shields.io/badge/GitHub-ashokn--24-black?style=flat&logo=github)](https://github.com/ashokn-24)  
@@ -7,7 +7,7 @@
 
 ---
 
-👋 Hi there! I'm **Ashok Nagaraj**, an **MCA graduate** passionate about **full-stack development, AI, and problem-solving**. I love building scalable web applications and optimizing backend processes. Always open to learning new technologies and contributing to exciting projects.
+👋 Hi there! I'm **Ashok Nagaraj**, an **MCA graduate** passionate about **full-stack development and problem-solving**. I love building scalable web applications and optimizing backend processes. Always open to learning new technologies and contributing to exciting projects.
 
 ### 🚀 Skills & Tech Stack
 - **Frontend:** React.js, Redux, HTML, CSS, Bootstrap, Tailwind CSS  
