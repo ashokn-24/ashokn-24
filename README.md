@@ -18,6 +18,12 @@
 
 ---
 
+### 🌟 Problem Solving
+- **LeetCode:** Solved **100+** problems - [Profile](https://leetcode.com/u/ashokn-24/)  
+- **GeeksForGeeks:** Solved **80+** problems - [Profile](https://www.geeksforgeeks.org/user/ashokn8lnx/)  
+
+---
+
 ### 📌 Featured Projects  
 
 #### 🏆 [Job Portal](https://github.com/ashokn-24/job-portal)  
