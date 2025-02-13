@@ -1,16 +1,52 @@
-## Hi there 👋
+### ✨ Ashok Nagaraj | Full-Stack Developer | AI Enthusiast  
 
-<!--
-**ashokn-24/ashokn-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokn24-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokn24)  
+[![GitHub](https://img.shields.io/badge/GitHub-ashokn--24-black?style=flat&logo=github)](https://github.com/ashokn-24)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-ashokn--24-orange?style=flat&logo=leetcode)](https://leetcode.com/u/ashokn-24/)  
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-ashokn8lnx-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ashokn8lnx/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi there! I'm **Ashok Nagaraj**, an **MCA graduate** passionate about **full-stack development, AI, and problem-solving**. I love building scalable web applications and optimizing backend processes. Always open to learning new technologies and contributing to exciting projects.
+
+### 🚀 Skills & Tech Stack
+- **Frontend:** React.js, Redux, HTML, CSS, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Other:** Git, API Integration, Responsive Web Design, Web Scraping  
+- **Languages:** Java, JavaScript  
+
+---
+
+### 📌 Featured Projects  
+
+#### 🏆 [Job Portal](https://github.com/ashokn-24/job-portal)  
+🔹 A full-stack job search and management platform with user authentication and role-based access.  
+🛠️ **Tech:** React.js, Node.js, Express.js, MongoDB, JWT  
+🎯 **Features:** Secure job applications, dynamic job filtering, user profiles  
+
+#### 📚 [Scholarship Portal](https://github.com/ashokn-24/scholarship-portal)  
+🔹 A full-stack scholarship form management system with authentication & dashboards.  
+🛠️ **Tech:** React.js, Node.js, Express.js, Sequelize ORM, MySQL  
+🎯 **Features:** Google & Microsoft OAuth, file uploads, multi-language support  
+
+#### 🤖 [ChatFlow - AI Chatbot](https://github.com/ashokn-24/ai-chat_bot)  
+🔹 A real-time AI chatbot with Google Gemini AI integration.  
+🛠️ **Tech:** React.js, FastAPI (Python), MongoDB  
+🎯 **Features:** AI-powered responses, chat history storage, real-time messaging  
+
+---
+
+### 📝 Certifications  
+✅ **React Beginners Bootcamp** - Udemy  
+✅ **Git and GitHub** - 365datascience  
+✅ **Responsive Web Design** - FreeCodeCamp  
+✅ **Introduction to Excel** - 365datascience  
+
+---
+
+### 📩 Let's Connect!  
+📧 **Email:** ashokn2410@gmail.com  
+📍 **Location:** Tiruchirappalli, Tamil Nadu, India  
+
+🔹 **Open to collaborations, freelance projects, and new opportunities!**  
