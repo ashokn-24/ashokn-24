@@ -43,16 +43,8 @@
 
 ---
 
-### 📝 Certifications  
-✅ **React Beginners Bootcamp** - Udemy  
-✅ **Git and GitHub** - 365datascience  
-✅ **Responsive Web Design** - FreeCodeCamp  
-✅ **Introduction to Excel** - 365datascience  
-
----
-
 ### 📩 Let's Connect!  
 📧 **Email:** ashokn2410@gmail.com  
 📍 **Location:** Tiruchirappalli, Tamil Nadu, India  
 
-🔹 **Open to collaborations, freelance projects, and new opportunities!**  
+🔹 **Open to collaborations and new opportunities!**  
