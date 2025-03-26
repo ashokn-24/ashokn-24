@@ -1,4 +1,4 @@
-### ✨ Ashok Nagaraj | Full-Stack Developer 
+### ✨ Ashok N | Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokn24-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashokn24)  
 [![GitHub](https://img.shields.io/badge/GitHub-ashokn--24-black?style=flat&logo=github)](https://github.com/ashokn-24)  
