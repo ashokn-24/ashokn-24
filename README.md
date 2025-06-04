@@ -14,12 +14,12 @@
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Other:** Git, API Integration, Responsive Web Design, Web Scraping  
-- **Languages:** Java, JavaScript  
+- **Languages:** Java, JavaScript, Python
 
 ---
 
 ### 🌟 Problem Solving
-- **LeetCode:** Solved **100+** problems - [Profile](https://leetcode.com/u/ashokn-24/)  
+- **LeetCode:** Solved **150+** problems - [Profile](https://leetcode.com/u/ashokn-24/)  
 - **GeeksForGeeks:** Solved **100+** problems - [Profile](https://www.geeksforgeeks.org/user/ashokn8lnx/)  
 
 ---
@@ -27,6 +27,5 @@
 
 ### 📩 Let's Connect!  
 📧 **Email:** ashokn2410@gmail.com  
-📍 **Location:** Tiruchirappalli, Tamil Nadu, India  
+📍 **Location:** Bengaluru, Karnataka, India  
 
-🔹 **Open to collaborations and new opportunities!**  
